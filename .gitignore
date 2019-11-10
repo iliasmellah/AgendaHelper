@@ -1,0 +1,4 @@
+# Agenda Helper .gitignore
+
+# Forget about node modules
+node_modules/
